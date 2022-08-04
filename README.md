@@ -1,4 +1,4 @@
-# idea-demo1111
+# idea-demo2111
 
 ![Build](https://github.com/cnzhujie/idea-demo/workflows/Build/badge.svg)
 [![Version](https://img.shields.io/jetbrains/plugin/v/PLUGIN_ID.svg)](https://plugins.jetbrains.com/plugin/PLUGIN_ID)
