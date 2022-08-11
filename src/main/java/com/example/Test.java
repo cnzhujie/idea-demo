@@ -6,7 +6,6 @@ import java.io.FileOutputStream;
 public class Test {
     public static void main(String[] args) {
         System.out.println(222);
-        System.out.println(222222);
 
         try {
             new FileOutputStream(new File("/a.txt"));
